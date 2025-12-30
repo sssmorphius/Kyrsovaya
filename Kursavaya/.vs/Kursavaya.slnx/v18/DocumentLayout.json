@@ -1,0 +1,757 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\source\\repos\\Kursavaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\model\\rolenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\model\\rolenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\dto\\teamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\dto\\teamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\dto\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\dto\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\tournamentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\tournamentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\playerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\playerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\model\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\model\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3065A-9B76-4A2F-BA24-577936F28ABC}|Shared.Contracts\\Shared.Contracts.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\shared.contracts\\shared.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48E3065A-9B76-4A2F-BA24-577936F28ABC}|Shared.Contracts\\Shared.Contracts.csproj|solutionrelative:shared.contracts\\shared.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3065A-9B76-4A2F-BA24-577936F28ABC}|Shared.Contracts\\Shared.Contracts.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\shared.contracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E3065A-9B76-4A2F-BA24-577936F28ABC}|Shared.Contracts\\Shared.Contracts.csproj|solutionrelative:shared.contracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3065A-9B76-4A2F-BA24-577936F28ABC}|Shared.Contracts\\Shared.Contracts.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\shared.contracts\\events\\employerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E3065A-9B76-4A2F-BA24-577936F28ABC}|Shared.Contracts\\Shared.Contracts.csproj|solutionrelative:shared.contracts\\events\\employerevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\models\\participantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\models\\participantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\consumers\\tournamentupdatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\consumers\\tournamentupdatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\consumers\\tournamenteventsconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\consumers\\tournamenteventsconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\consumers\\teammemberchangedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\consumers\\teammemberchangedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\consumers\\teamdeletedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\consumers\\teamdeletedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\consumers\\teamcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\consumers\\teamcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\service\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\service\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\service\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\service\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\model\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\model\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\dto\\updateplayerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\dto\\updateplayerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\models\\tournamentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\models\\tournamentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\dto\\createtournamentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\dto\\createtournamentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48BD53A-7CB6-402C-ADBD-4BD4F1C8744E}|JwtClass\\JwtClass.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\jwtclass\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48BD53A-7CB6-402C-ADBD-4BD4F1C8744E}|JwtClass\\JwtClass.csproj|solutionrelative:jwtclass\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\migrations\\tournamentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\migrations\\tournamentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service2\\migrations\\20251229090804_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB198BD6-2992-4923-BE9C-8E059B699A74}|Service2\\TournamentService.csproj|solutionrelative:service2\\migrations\\20251229090804_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\migrations\\20251228223006_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\migrations\\20251228223006_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\migrations\\20251228233227_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\migrations\\20251228233227_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\migrations\\20251228231325_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\migrations\\20251228231325_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service1\\migrations\\20251229090733_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD14628-4A85-EC32-8D1D-3BD8D5109F83}|Service1\\AuthService.csproj|solutionrelative:service1\\migrations\\20251229090733_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|c:\\users\\alber\\source\\repos\\kursavaya\\service3\\migrations\\20251230004959_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC2377D-D5DD-48B1-A3CC-D6E2A2F3500C}|Service3\\PlayerService.csproj|solutionrelative:service3\\migrations\\20251230004959_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.csproj",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\AuthService.csproj",
+              "RelativeDocumentMoniker": "Service1\\AuthService.csproj",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\AuthService.csproj",
+              "RelativeToolTip": "Service1\\AuthService.csproj",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T01:27:45.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Program.cs",
+              "RelativeDocumentMoniker": "Service1\\Program.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Program.cs",
+              "RelativeToolTip": "Service1\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAIUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:06:11.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Program.cs",
+              "RelativeDocumentMoniker": "Service2\\Program.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Program.cs",
+              "RelativeToolTip": "Service2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T01:55:54.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Program.cs",
+              "RelativeDocumentMoniker": "Service3\\Program.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Program.cs",
+              "RelativeToolTip": "Service3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:22:30.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TournamentService.csproj",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\TournamentService.csproj",
+              "RelativeDocumentMoniker": "Service2\\TournamentService.csproj",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\TournamentService.csproj",
+              "RelativeToolTip": "Service2\\TournamentService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T01:29:39.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Dto\\ApplicationDto.cs",
+              "RelativeDocumentMoniker": "Service3\\Dto\\ApplicationDto.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Dto\\ApplicationDto.cs",
+              "RelativeToolTip": "Service3\\Dto\\ApplicationDto.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA2wEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:08:35.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeamRequest.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Dto\\TeamRequest.cs",
+              "RelativeDocumentMoniker": "Service1\\Dto\\TeamRequest.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Dto\\TeamRequest.cs",
+              "RelativeToolTip": "Service1\\Dto\\TeamRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T22:17:12.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Service1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Service1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:47:52.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleNames.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\RoleNames.cs",
+              "RelativeDocumentMoniker": "Service1\\Model\\RoleNames.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\RoleNames.cs",
+              "RelativeToolTip": "Service1\\Model\\RoleNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:47:25.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\Team.cs",
+              "RelativeDocumentMoniker": "Service1\\Model\\Team.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\Team.cs",
+              "RelativeToolTip": "Service1\\Model\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T22:14:56.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\appsettings.json",
+              "RelativeDocumentMoniker": "Service3\\appsettings.json",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\appsettings.json",
+              "RelativeToolTip": "Service3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T11:54:51.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerService.csproj",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\PlayerService.csproj",
+              "RelativeDocumentMoniker": "Service3\\PlayerService.csproj",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\PlayerService.csproj",
+              "RelativeToolTip": "Service3\\PlayerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T10:27:18.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20251230004959_Init.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Migrations\\20251230004959_Init.cs",
+              "RelativeDocumentMoniker": "Service3\\Migrations\\20251230004959_Init.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Migrations\\20251230004959_Init.cs",
+              "RelativeToolTip": "Service3\\Migrations\\20251230004959_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T00:49:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "Service3\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "Service3\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:05:56.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Service1\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "Service1\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:45:37.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\appsettings.json",
+              "RelativeDocumentMoniker": "Service2\\appsettings.json",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\appsettings.json",
+              "RelativeToolTip": "Service2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T02:13:45.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TournamentsController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Controllers\\TournamentsController.cs",
+              "RelativeDocumentMoniker": "Service2\\Controllers\\TournamentsController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Controllers\\TournamentsController.cs",
+              "RelativeToolTip": "Service2\\Controllers\\TournamentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:12:57.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Service1\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\LoginModel.cs",
+              "RelativeToolTip": "Service1\\Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:46:36.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Service1\\Model\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\AuthResponse.cs",
+              "RelativeToolTip": "Service1\\Model\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:48:10.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Service1\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Service1\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T22:18:19.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\appsettings.json",
+              "RelativeDocumentMoniker": "Service1\\appsettings.json",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\appsettings.json",
+              "RelativeToolTip": "Service1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-28T19:42:14.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Shared.Contracts\\Class1.cs",
+              "RelativeDocumentMoniker": "Shared.Contracts\\Class1.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Shared.Contracts\\Class1.cs",
+              "RelativeToolTip": "Shared.Contracts\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:20:34.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Service1\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Service1\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAmwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T22:19:00.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Shared.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Shared.Contracts\\Shared.Contracts.csproj",
+              "RelativeDocumentMoniker": "Shared.Contracts\\Shared.Contracts.csproj",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Shared.Contracts\\Shared.Contracts.csproj",
+              "RelativeToolTip": "Shared.Contracts\\Shared.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T18:39:12.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployerEvents.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Shared.Contracts\\Events\\EmployerEvents.cs",
+              "RelativeDocumentMoniker": "Shared.Contracts\\Events\\EmployerEvents.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Shared.Contracts\\Events\\EmployerEvents.cs",
+              "RelativeToolTip": "Shared.Contracts\\Events\\EmployerEvents.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:21:11.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ParticipantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Models\\ParticipantDbContext.cs",
+              "RelativeDocumentMoniker": "Service3\\Models\\ParticipantDbContext.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Models\\ParticipantDbContext.cs",
+              "RelativeToolTip": "Service3\\Models\\ParticipantDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:07:36.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Service3\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Models\\Application.cs",
+              "RelativeToolTip": "Service3\\Models\\Application.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:12:31.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TournamentUpdatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TournamentUpdatedConsumer.cs",
+              "RelativeDocumentMoniker": "Service3\\Consumers\\TournamentUpdatedConsumer.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TournamentUpdatedConsumer.cs",
+              "RelativeToolTip": "Service3\\Consumers\\TournamentUpdatedConsumer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:41:21.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TournamentEventsConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TournamentEventsConsumer.cs",
+              "RelativeDocumentMoniker": "Service3\\Consumers\\TournamentEventsConsumer.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TournamentEventsConsumer.cs",
+              "RelativeToolTip": "Service3\\Consumers\\TournamentEventsConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:15:49.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeamMemberChangedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TeamMemberChangedConsumer.cs",
+              "RelativeDocumentMoniker": "Service3\\Consumers\\TeamMemberChangedConsumer.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TeamMemberChangedConsumer.cs",
+              "RelativeToolTip": "Service3\\Consumers\\TeamMemberChangedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:25:06.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeamDeletedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TeamDeletedConsumer.cs",
+              "RelativeDocumentMoniker": "Service3\\Consumers\\TeamDeletedConsumer.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TeamDeletedConsumer.cs",
+              "RelativeToolTip": "Service3\\Consumers\\TeamDeletedConsumer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:25:33.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TeamCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TeamCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "Service3\\Consumers\\TeamCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service3\\Consumers\\TeamCreatedConsumer.cs",
+              "RelativeToolTip": "Service3\\Consumers\\TeamCreatedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:13:35.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Service\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Service1\\Service\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Service\\JwtTokenService.cs",
+              "RelativeToolTip": "Service1\\Service\\JwtTokenService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:45:45.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Service\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Service1\\Service\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Service\\IJwtTokenService.cs",
+              "RelativeToolTip": "Service1\\Service\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:45:34.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Service1\\Model\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Model\\TeamMember.cs",
+              "RelativeToolTip": "Service1\\Model\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T22:15:16.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdatePlayerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Dto\\UpdatePlayerRequest.cs",
+              "RelativeDocumentMoniker": "Service1\\Dto\\UpdatePlayerRequest.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Dto\\UpdatePlayerRequest.cs",
+              "RelativeToolTip": "Service1\\Dto\\UpdatePlayerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T23:12:08.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TournamentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Models\\TournamentDbContext.cs",
+              "RelativeDocumentMoniker": "Service2\\Models\\TournamentDbContext.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Models\\TournamentDbContext.cs",
+              "RelativeToolTip": "Service2\\Models\\TournamentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:11:32.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Models\\Tournament.cs",
+              "RelativeDocumentMoniker": "Service2\\Models\\Tournament.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Models\\Tournament.cs",
+              "RelativeToolTip": "Service2\\Models\\Tournament.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:10:58.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateTournamentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Dto\\CreateTournamentRequest.cs",
+              "RelativeDocumentMoniker": "Service2\\Dto\\CreateTournamentRequest.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Dto\\CreateTournamentRequest.cs",
+              "RelativeToolTip": "Service2\\Dto\\CreateTournamentRequest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:12:26.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\JwtClass\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "JwtClass\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\JwtClass\\JwtOptions.cs",
+              "RelativeToolTip": "JwtClass\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:49:51.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TournamentDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Migrations\\TournamentDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Service2\\Migrations\\TournamentDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Migrations\\TournamentDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Service2\\Migrations\\TournamentDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:10:01.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20251229090804_Init.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Migrations\\20251229090804_Init.cs",
+              "RelativeDocumentMoniker": "Service2\\Migrations\\20251229090804_Init.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service2\\Migrations\\20251229090804_Init.cs",
+              "RelativeToolTip": "Service2\\Migrations\\20251229090804_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:08:04.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251229090733_Init.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Migrations\\20251229090733_Init.cs",
+              "RelativeDocumentMoniker": "Service1\\Migrations\\20251229090733_Init.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Migrations\\20251229090733_Init.cs",
+              "RelativeToolTip": "Service1\\Migrations\\20251229090733_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:07:33.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251228233227_Init3.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Migrations\\20251228233227_Init3.cs",
+              "RelativeDocumentMoniker": "Service1\\Migrations\\20251228233227_Init3.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Migrations\\20251228233227_Init3.cs",
+              "RelativeToolTip": "Service1\\Migrations\\20251228233227_Init3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T23:32:28.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251228231325_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Migrations\\20251228231325_Init2.cs",
+              "RelativeDocumentMoniker": "Service1\\Migrations\\20251228231325_Init2.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Migrations\\20251228231325_Init2.cs",
+              "RelativeToolTip": "Service1\\Migrations\\20251228231325_Init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T23:13:26.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251228223006_Init1.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Migrations\\20251228223006_Init1.cs",
+              "RelativeDocumentMoniker": "Service1\\Migrations\\20251228223006_Init1.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\Kursavaya\\Service1\\Migrations\\20251228223006_Init1.cs",
+              "RelativeToolTip": "Service1\\Migrations\\20251228223006_Init1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T22:30:07.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

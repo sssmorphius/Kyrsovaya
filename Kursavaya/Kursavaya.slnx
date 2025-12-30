@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="JwtClass/JwtClass.csproj" Id="a48bd53a-7cb6-402c-adbd-4bd4f1c8744e" />
+  <Project Path="Service1/AuthService.csproj" />
+  <Project Path="Service2/TournamentService.csproj" Id="fb198bd6-2992-4923-be9c-8e059b699a74" />
+  <Project Path="Service3/PlayerService.csproj" Id="8bc2377d-d5dd-48b1-a3cc-d6e2a2f3500c" />
+  <Project Path="Shared.Contracts/Shared.Contracts.csproj" Id="48e3065a-9b76-4a2f-ba24-577936f28abc" />
+</Solution>
